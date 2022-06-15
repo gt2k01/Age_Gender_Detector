@@ -12,7 +12,7 @@ import numpy as np
 
 # Loading the Model
 from keras.models import load_model
-model = load_model('D:\Docs\Projects\Age_Gender\Age_Sex_Detection.h5')
+model = load_model('Age_Sex_Detection.h5')
 
 # Initializing the GUI
 top = tk.Tk()
